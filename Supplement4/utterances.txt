@@ -1,0 +1,22 @@
+Relation+Direction:
+-There is a positive correlation between the variables A and B
+-There is a negative correlation between the variables A and B
+Relation+Magnitude:
+-There is strong correlation between the variables A and B
+-There is moderate correlation between the variables A and B
+-There is weak correlation between the variables A and B
+Relation+Discernibility:
+-There is a clear relationship between A and B
+-There is no obvious relationship between A and B
+Relation+Regularity:
+-There is a tight relationship between A and B
+-There is a loose relationship between A and B
+Behaviour+Direction:
+-There is an upward trend
+-There is a downward trend
+Space and Inferences + Position
+- When the values of A are high, so are the values of B
+- When the values of A are high, the values of B are low
+Relation and Inferences + Position
+-When variable A is high, so is variable B
+-When variable A is high, variable B is low
