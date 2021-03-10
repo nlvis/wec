@@ -54,3 +54,5 @@ Otherwise, it is enough to jump directly to *wec-analysis* and go from there. NL
 
     
 [1] J.-K. Kim, M.-C. de Marneffe, and E. Fosler-Lussier, “Adjusting Word Embeddings with Semantic Intensity Orders,” pp. 62–69, 2016.
+
+[![DOI](https://zenodo.org/badge/283539783.svg)](https://zenodo.org/badge/latestdoi/283539783)
